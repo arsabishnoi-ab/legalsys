@@ -1,0 +1,26 @@
+{
+  "name": "PS Viswanathan Advocate",
+  "short_name": "PS Viswanathan",
+  "description": "Advocate & Legal Consultant in BTM Layout, Bengaluru",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f6f5",
+  "theme_color": "#2e3338",
+  "icons": [
+    {
+      "src": "images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "images/apple-touch-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/og-image.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
