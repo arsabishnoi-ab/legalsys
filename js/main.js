@@ -5,9 +5,9 @@
 import { REVIEWS } from './reviews.js';
 
 const SITE = {
-  phone: '09741594041',
-  phoneIntl: '919741594041',
-  email: 'psviswanathan.advocate@gmail.com',
+  phone: '94483 41722',
+  phoneIntl: '919448341722',
+  email: 'psviswanathanlegal@gmail.com',
   name: 'PS Viswanathan',
 };
 
